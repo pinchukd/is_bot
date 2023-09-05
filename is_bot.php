@@ -1,7 +1,7 @@
 <?php
 
 // https://github.com/pinchukd/is_bot
-// bot ckecking function
+// bot checking function
 // usage : is_bot($_SERVER['HTTP_USER_AGENT'])
 
 function is_bot($sistema){
